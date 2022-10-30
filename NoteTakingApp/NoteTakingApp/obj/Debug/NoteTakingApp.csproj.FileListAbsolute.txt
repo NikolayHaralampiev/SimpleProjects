@@ -1,0 +1,11 @@
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\nikol\Desktop\C#Projects\NoteTakingApp(WFP)\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
